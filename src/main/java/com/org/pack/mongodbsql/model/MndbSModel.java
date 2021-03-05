@@ -6,7 +6,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document
 public class MndbSModel {
 
-    private int
-
+    private int fjgj;
+    private String aaa;
 
 }
